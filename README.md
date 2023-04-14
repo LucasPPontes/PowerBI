@@ -8,3 +8,6 @@
 
 # Vendas_Loja1
 ## Nesse pequeno projeto mostro alguns resultados de vendas de uma Loja e suas filiais
+
+# BaseBi
+## Relatório coletado através de uma base de dados do próprio Power Bi, nele mostro uma análise de vendas.
