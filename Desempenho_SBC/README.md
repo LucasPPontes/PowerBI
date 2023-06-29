@@ -3,7 +3,7 @@
 ## O principal objetivo desse projeto foi mapear e analisar as possíveis oscilações em cada equipamento
 
 # Análise do desempenho por dia
-![System](/Desempenho%20SBC/img/desempenho%20dia.png)
+![System](/Desempenho_SBC/img/desempenho_dia.png)
 
 # Análise do desempenho por hora
-![System](/Desempenho%20SBC/img/desempenho%20hora.png)
+![System](/Desempenho_SBC/img/desempenho_hora.png)
